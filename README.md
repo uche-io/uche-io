@@ -1,13 +1,13 @@
 # hey, I'm Uche 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=520&lines=Lead+Engineer+%40+Lift+DSP;messy+platforms+%E2%86%92+quiet+deploys;If+it%27s+doable%2C+I%27d+get+it+done)](https://git.io/typing-svg)
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="coding gif" />
 
-**Lead Engineer @ [Lift DSP](https://liftdsp.com)** · Birmingham, UK  
+**Lead Engineer @ Lift DSP** · Birmingham, UK  
 Turning messy platforms into things teams actually enjoy shipping.
 
 > *If it's doable, I'd get it done.*
 
-[website](https://uche.io) · [hey@uche.io](mailto:hey@uche.io) · [linkedin](https://linkedin.com/in/urchymanny) · [x](https://twitter.com/uche_io) · [personal github](https://github.com/urchymanny)
+[website](https://uche.io) · [hey@uche.io](mailto:hey@uche.io) · [linkedin](https://linkedin.com/in/urchymanny) · [x](https://twitter.com/uche_io)
 
 ---
 
