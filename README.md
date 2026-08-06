@@ -1,27 +1,65 @@
-# 👋 Hi, I’m @uche-io
+# hey, I'm Uche 👋
 
-I'm a **Full-Stack Developer** with over 11 years of experience, specializing in **Ruby on Rails**, **AngularJS**, **DevOps**, and **Machine Learning**. I enjoy building scalable applications, optimizing performance, and transitioning products from outsourced development to in-house teams.  
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="coding gif" />
 
-## 👀 I’m interested in ...  
-- **Software Architecture** – designing scalable and maintainable systems.  
-- **DevOps & Cloud** – working with Kubernetes, Docker, AWS, and GCP.  
-- **Machine Learning** – integrating ML models into production-ready applications.  
-- **Startup & Business Tech** – helping businesses streamline operations with technology.  
+**Lead Engineer @ Lift DSP** · Birmingham, UK  
+Turning messy platforms into things teams actually enjoy shipping.
 
-## 🌱 I’m currently learning ...  
-- Advanced **Kubernetes on AWS**.  
-- Improving **technical documentation** with structured, nested approaches.  
+> *If it's doable, I'd get it done.*
 
-## 💞️ I’m looking to collaborate on ...  
-- Open-source projects related to **Rails**, **DevOps**, and **ML Pipelines**.  
-- Startups needing technical expertise to scale and refine their products.  
-- Improving documentation and developer onboarding processes.  
+[website](https://uche.io) · [hey@uche.io](mailto:hey@uche.io) · [linkedin](https://linkedin.com/in/urchymanny) · [x](https://twitter.com/uche_io)
 
-## 📫 How to reach me ...    
-- **LinkedIn**: (Open LinkedIn)[https://linkedin.com/in/urchymanny]  
-- **GitHub**: Here, of course!  
+---
 
-## 😄 Pronouns: He/Him  
+### 🛰️ day job
 
-## ⚡ Fun fact:  
-I once built a system that handled **5M+ requests per month** and processed over **$4M** in transactions. 🚀  
+I lead engineering at a programmatic advertising company. Came in as the first in-house hire, rebuilt the product stack, and grew the team around it.
+
+What that looks like in practice:
+
+- 🏗️ modernising legacy Rails backends without breaking live traffic  
+- ✨ shipping a fresh self-serve UI (bye Angular 1, hello something maintainable)  
+- 🔐 tightening API boundaries so the frontend never sees more than it should  
+- ⚙️ CI/CD, Docker, Postgres... the unglamorous stuff that keeps deploys boring  
+- 👥 hiring, mentoring, and code-reviewing so the team levels up with the product  
+
+Less about flashy titles. More about making the platform quieter, faster, and easier to own.
+
+---
+
+### 🧰 toolkit
+
+```text
+ruby · typescript · python · rails · next.js · react
+postgres · redis · docker · github actions · gcp · aws
+```
+
+I like systems that are boring in production and interesting in design.
+
+---
+
+### 🌱 outside the editor
+
+- 🎓 teaching frontend to folks who are just getting started  
+- 🐍 reviewing talks for PyData Milton Keynes  
+- 🟢 helping out at GDG sessions around Milton Keynes & Birmingham  
+- 🧠 poking at ML when it actually earns its place in a product  
+
+---
+
+### ⚡ currently
+
+- leading platform work at Lift DSP  
+- learning how to make Kubernetes on AWS feel less like a boss fight  
+- always down to talk architecture, hiring, or weird edge cases  
+
+---
+
+### 📫 say hi
+
+Open an issue, drop an email, or find me at [uche.io](https://uche.io).  
+Coffee optional. Good problems preferred. ☕
+
+<!--
+Publish: this goes in the public repo github.com/uche-io/uche-io as README.md
+-->
